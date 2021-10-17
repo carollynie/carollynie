@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/carollynie">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carollynie&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollynie&layout=compact&langs_count=7&theme=radical"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carollynie&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollynie&layout=compact&langs_count=7&theme=radical"/>
    <img align="right" alt="Carol-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_oLWu9Jo4.png">
 </div>
   
