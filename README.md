@@ -23,7 +23,6 @@
  </div>
   
 <div align="center">
-<img align="right" alt="Carol-pic" height="150" style="border-radius:50px;" src="![image](https://user-images.githubusercontent.com/79021828/203675287-e127d228-e6ef-483f-9038-c92de10bcf91.png)
-">
+<img align="right" alt="Carol-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202211/114808_osdsYo8C.png">
 </div>
   
